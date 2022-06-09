@@ -4,9 +4,12 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
     const menuItems =
     <>
-        <li><Link to='/home'>Home</Link></li>
-        <li><Link to='/contact'>Contact Me</Link></li>
-        <li><Link to='/about'>About</Link></li>
+        <li><Link to='/home'>HOME</Link></li>
+        <li><Link to='/blog'>BLOG</Link></li>
+        <li><Link to='/portfolio'>PORTFOLIO</Link></li>
+        <li><Link to='/contact'>CONTACT</Link></li>
+        <li><Link to='/about'>ABOUT</Link></li>
+        
     </>
 return (
     <div class="navbar  bg-neutral text-neutral-content">
@@ -27,7 +30,7 @@ return (
             </ul>
         </div>
         <div class="navbar-end">
-            <a class="btn btn-secondary">Download Resume</a>
+        <a href=''><button className='btn btn-primary'>Download Resume</button></a>
         </div>
     </div>
 );

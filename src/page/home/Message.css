@@ -1,0 +1,15 @@
+input {
+    border: 1px solid gray;
+    margin-bottom: 3px;
+    height:40px;
+    width:500px;
+    border-radius: 3px;
+}
+textarea{
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+.message-section{
+    height: 500px;
+    background-color: #1E1E1E;
+}
