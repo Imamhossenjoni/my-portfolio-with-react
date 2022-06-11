@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Laptop Parts Gallary",
+        "img":"https://i.ibb.co/27Ynjx4/gallary1.png",
+        "live":"https://laptop-parts-gallary.web.app/",
+        "id":1,
+        "description":"This is a Gallay laptop. Insert here some products in this project.If any user assigns this website,this user must need to log in.  Otherwise, manage Items, Order Items and CheckOut won’t be allowed for these users."
+    },
+    {
+        "name":"Laptop Gallary",
+        "img":"https://i.ibb.co/fxnbcbN/pallary1.png",
+        "live":"https://laptop-gallary-2c921.web.app/",
+        "id":2,
+        "description":"This is a complete responsive website.Users will be able to order for servicing of different types of devices. Users need to login to the  website to place an order.Users of this website can give a review if their order is completed."
+   
+    },
+    {
+        "name":"Single Doctor Service",
+        "img":"https://i.ibb.co/pbD4yLH/part1png.png",
+        "live":"https://single-doctor.web.app/",
+        "id":3,
+        "description":"This is a complete responsive website. Users can take treatment from here.If anyone is interested in taking treatment from this doctor, he can book and he must give his details what the doctor wants to know."
+    }
+]

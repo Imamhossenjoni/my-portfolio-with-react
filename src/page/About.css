@@ -1,0 +1,37 @@
+.orange-color {
+    color: orange;
+}
+
+h2 {
+    color: #6231EF;
+}
+
+.experience {
+    height: 300px;
+    width: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 50px gray;
+    padding-left: 20px;
+    text-align: justify;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding-right: 15px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.full-stack-developer {
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 2;
+}

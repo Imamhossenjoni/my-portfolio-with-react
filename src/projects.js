@@ -1,0 +1,50 @@
+export const allProjects=[
+    {
+        name:"Laptop Parts Gallary",
+        img1:"https://i.ibb.co/27Ynjx4/gallary1.png",
+        img2:"https://i.ibb.co/wQMXZth/gallary2.png",
+        img3:"https://i.ibb.co/DpVTKfS/gallary3.png",
+        live:"https://laptop-parts-gallary.web.app/",
+        id:1,
+        description:"This is a Gallay laptop. Insert here some products in this project.If any user assigns this website,this user must need to log in.  Otherwise, manage Items, Order Items and CheckOut won’t be allowed for these users.",
+        server:"https://github.com/programming-hero-web-course1/manufacturer-website-server-side-Imamhossenjoni",
+        client:"https://github.com/Imamhossenjoni/laptop-parts",
+        point1:"This is a Gallay laptop. Insert here some products in this project.",
+        point2:"If any user assigns this website,this user must need to log in. Otherwise, manage Items, Order Items and CheckOut won’t be allowed for these users.",
+        point3:"If any user forgets his password, then he can use the reset option.",
+        point4:"Every option.Every user must need to use Email Verification.",
+        point5:"This is a completely responsive website"
+    },
+    {
+        name:"Laptop Gallary",
+        img1:"https://i.ibb.co/LYCpy1F/pallary1.png",
+        img2:"https://i.ibb.co/cXwgRLd/pallary2.png",
+        img3:"https://i.ibb.co/fxnbcbN/pallary3.png",
+        live:"https://laptop-gallary-2c921.web.app/",
+        id:2,
+        description:"This is a complete responsive website.Users will be able to order for servicing of different types of devices. Users need to login to the  website to place an order.Users of this website can give a review if their order is completed.",
+        server:"https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-Imamhossenjoni",
+        client:"https://github.com/Imamhossenjoni/laptop-gallary",
+        point1:"This is laptop gallary.I insert some product and details in this projects.",
+        point2:"If any user assingn this website, this user must need to log in.",
+        point3:"Otherwise, manageItems,Order and CheakOut now allow for this user.",
+        point4:"If any user forget his password, then he can use reset option.",
+        point5:"EveryUser must need to use Email Varification."
+   
+    },
+    {
+        name:"Single Doctor Service",
+        img1:"https://i.ibb.co/pbD4yLH/part1png.png",
+        img2:"https://i.ibb.co/q9hwhbS/part2.png",
+        img3:"https://i.ibb.co/7bLCNgf/part3.png",
+        live:"https://single-doctor.web.app/",
+        client:"https://github.com/Imamhossenjoni/single-doctor",
+        id:3,
+        description:"This is a complete responsive website. Users can take treatment from here.If anyone is interested in taking treatment from this doctor, he can book and he must give his details what the doctor wants to know.",
+        point1:"This is a Single Dorctor Services Webside.I used to create website by React",
+        point2:"I also used react-firebase-hook for user authentication.",
+        point3:"n this website has also which treatment give by this doctor.You can know to is his amout for specipic any test.",
+        point4:"If a your want to service from this doctor, he must be register at a first time.",
+        point5:"Without register the doctor didn't response.",
+    }
+]
